@@ -3,12 +3,15 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "animation": "*"
+        "animation": "*",
+        "darts": "*"
     },
     "files": [
         "main.ts",
         "README.md",
-        "main.blocks"
+        "main.blocks",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
